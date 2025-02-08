@@ -1,6 +1,4 @@
-﻿# Weather-App
 Here's a sample README.md for your Weather App repository:
-
 # Weather App
 
 A simple weather app built with Django that provides current weather information for a given city. It uses the [OpenWeatherMap API](https://openweathermap.org/) to fetch weather data and display it in an easy-to-read format.
